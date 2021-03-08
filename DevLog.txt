@@ -1,0 +1,14 @@
+This will be a journal of my thought processes and steps taken as I fumble my way through this.
+Time is not critical to me on this project, as this is literally being done (at this point) in my spare time.
+I hope to squeeze out some time each day, maybe an hour or so, but likely no more than that most of the time, 
+and likely less a significant portion of the time.
+
+********** Entry #1 - 3/8/21 **********
+I have about an hour before I have to go to work.
+Objectives:
+- README.MD file created with the first couple of "inspiration" links for me to refer back to.
+- Create basic outline HTML file, with pre-filled dates and events at this time...not a timeline yet
+-- Currently organizing timeline as an unordered list, consiting of list items with multiple divs. One div
+   contains three sub-divs which contain the month, day, and year of the event. The second div in the list item
+   contains the text of the event itself in a paragraph.
+-- This structure may (almost certainly will) change!
