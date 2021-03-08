@@ -12,3 +12,4 @@ Objectives:
    contains three sub-divs which contain the month, day, and year of the event. The second div in the list item
    contains the text of the event itself in a paragraph.
 -- This structure may (almost certainly will) change!
+- Also ended up adding VERY basic .CSS file to line up the dates and put a border around the events as a whole
