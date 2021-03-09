@@ -20,3 +20,5 @@ AFTER WORK
 - Managed to style a basic arrow onto the side of the timeline items.
 - Need to figure out a way (probably much later on) that will allow all of the values to be calculated based on the
   screen size of the viewing device.
+- As a side note, the TabNine plugin/extension for VSCode is phenomenal.
+- Made a quick edit to add highlighting of circles on timeline when mouseover occurs.

@@ -22,6 +22,8 @@ li{
 .entry{
     position: relative;
 }
+
+/* Style basic arrows onto the side of the entries */
 .entry::after{
     content: " ";
     position: absolute;
@@ -34,6 +36,12 @@ li{
     border-radius: 50%;
     z-index: 1;
 }
+
+/* Highlight the circle on the timeline on mouseover */
+.entry:hover::after{
+    background-color: rgb(64, 125, 238);
+}
+
 .entry::before{
     content: "";
     height: 0;
