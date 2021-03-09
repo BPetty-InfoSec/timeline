@@ -5,7 +5,6 @@ and likely less a significant portion of the time.
 
 ********** Entry #1 - 3/8/21 **********
 I have about an hour before I have to go to work.
-Objectives:
 - README.MD file created with the first couple of "inspiration" links for me to refer back to.
 - Create basic outline HTML file, with pre-filled dates and events at this time...not a timeline yet
 -- Currently organizing timeline as an unordered list, consiting of list items with multiple divs. One div
@@ -13,3 +12,11 @@ Objectives:
    contains the text of the event itself in a paragraph.
 -- This structure may (almost certainly will) change!
 - Also ended up adding VERY basic .CSS file to line up the dates and put a border around the events as a whole
+AFTER WORK
+- Squeezed in some time after work and managed to create the timeline rule itself in CSS, and update the list item
+  styling so that it does not have the default bullet, and added a "bullet" on the timeline for the list items
+- Most of this styling (certainly the broad strokes, and several of the finer ones) came almost directly from
+  the W3Schools page: https://www.w3schools.com/howto/howto_css_timeline.asp
+- Managed to style a basic arrow onto the side of the timeline items.
+- Need to figure out a way (probably much later on) that will allow all of the values to be calculated based on the
+  screen size of the viewing device.
